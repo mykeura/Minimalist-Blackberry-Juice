@@ -1,4 +1,4 @@
-# Minimalist Blackberry Juice 🫐
+# Minimalist Blackberry Juice
 
 A minimal Chrome theme in a calm, violet palette, by Miguel Euraque.
 
